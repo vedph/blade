@@ -129,3 +129,4 @@ h2.sec{font-weight:600;font-size:clamp(1.8rem,1.4rem + 1.2vw,2.3rem);margin:3rem
 .foot .flogos img{height:64px;width:auto;display:block}
 .foot .flogos a{text-decoration:none}
 .foot .wrap > div.flogos{flex:none}
+.slot h3 .online{font-weight:400}
